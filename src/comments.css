@@ -1,0 +1,26 @@
+.comments{
+    border: 2px solid pink;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    width: 30vw;
+    margin-left: 10%;
+    padding: 1%;
+    box-shadow: 3px 3px 1px red,  0 0 0.5rem pink;
+    margin-top: 2%;
+}
+.commContainer{
+    justify-content: center;
+    display: flex;
+    width: 70vw;
+    box-shadow: 2px 2px 2px black, 1rem 1rem 2rem black;
+}
+.secComm{
+    width: 40vw;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+.secComm h3{
+    font-size: 28px;
+    font-weight: 400;
+}

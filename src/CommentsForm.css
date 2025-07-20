@@ -1,0 +1,40 @@
+
+.CommentsForm{
+    border: 2px solid yellow;
+    border-radius: 10px;
+    margin: 30px;
+    box-shadow: 2px 2px 2px white, 1rem 1rem 1rem rgb(190, 190, 107);
+    padding: 27px;
+}
+.feedContainer h2{
+    font-size: 30px;
+    font-weight: 400;
+}
+.CommentsForm input{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    padding: 1%;
+}
+.CommentsForm textarea{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+button{
+    box-shadow: 1px 1px 1px white, 1rem 1rem 1rem #4b97adff;
+    height: 40px;
+    width: 30%;
+    border-radius: 10px;
+    border: 2px solid #1B7895;
+    margin-bottom: 3%;
+}
+button:hover{
+    background-color: #1B7895;
+    color: white;
+    height: 40px;
+    width: 31%;
+    border-radius: 10px;
+    border: 2px solid #0f5b72;
+}
