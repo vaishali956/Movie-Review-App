@@ -1,9 +1,7 @@
 <<<<<<< HEAD
 # Movie-Review-App
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# react + vite application
+# techStack- react, javascript, css, nodejs
 
 Currently, two official plugins are available:
 
