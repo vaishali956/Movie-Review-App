@@ -1,6 +1,6 @@
 
 # Movie-Review-App
-Hii everyone, This is a react specific movie review application, Where you can easily share your review of the movie!
+Hii everyone, This is a #react specific movie review application, Where you can add your ratings & comments!
 
 react + vite application
 
