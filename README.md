@@ -1,7 +1,6 @@
 
 # Movie-Review-App
 react + vite application
-techStack- react, javascript, css, nodejs
 
 #🌍 Features
 
@@ -9,12 +8,13 @@ techStack- react, javascript, css, nodejs
 * You can add comments/ review
 * Your review show in the application 
 
-🛠 Technologies Used
+🛠 TechStack Used
 
-*react
-*javascript
-*nodejs
-*express
+* React
+* JavaScript
+* Nodejs
+* Css
+* Expressjs
 
 Output of this code- you can see here live!, link is given below!!
 
