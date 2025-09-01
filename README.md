@@ -1,6 +1,6 @@
 
 # Movie-Review-App
-react + vite application, Where you can easily share your review of the movie!
+Hii everyone, This is a react + vite application, Where you can easily share your review of the movie!
 
 #🌍 Features
 
